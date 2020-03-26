@@ -116,6 +116,10 @@ Word Embeddings may affect many of the categories above through applications tha
 
 - [When drawing a line is hard](https://medium.com/equal-future/when-drawing-a-line-is-hard-8d92d30c9044)
 
+## Retail
+
+- [Amazon Doesn’t Consider the Race of Its Customers. Should It?](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
+
 # Safety
 
 ## Self-driving cars
